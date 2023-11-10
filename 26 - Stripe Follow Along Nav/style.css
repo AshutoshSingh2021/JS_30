@@ -155,7 +155,7 @@ a.button {
 }
 
 /* Matches Twitter, TWITTER, twitter, tWitter, TWiTTeR... */
-.button[href*="twitter"] {
+/* .button[href*="twitter"] {
   background: #019fe9;
 }
 .button[href*="facebook"] {
@@ -163,4 +163,4 @@ a.button {
 }
 .button[href*="courses"] {
   background: #ffc600;
-}
+} */
